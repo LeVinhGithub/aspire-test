@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ASPIRE" parallel="false">
+	
+  	<test name="Run on Chome">
+  		<parameter name = "browser" value = "chrome"/>
+	  	<classes>
+		  <class name="test.aspire_e2e_001"/>
+	    </classes>
+  	</test>
+</suite>
+
+
