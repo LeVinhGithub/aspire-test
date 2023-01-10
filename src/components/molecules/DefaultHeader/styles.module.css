@@ -1,0 +1,32 @@
+.header_0 {
+  width: 100%;
+}
+.header_box_0 {
+  background-color: rgba(0, 21, 41, 1);
+  height: auto;
+  width: 100%;
+}
+.header_row_0 {
+  height: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: auto;
+}
+.header_box_1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  justify-content: center;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  margin-top: 16px;
+  min-height: auto;
+  min-width: auto;
+  width: auto;
+}
+.header_image_0 {
+  height: auto;
+  width: 100px;
+}
