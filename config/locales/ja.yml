@@ -1,0 +1,11 @@
+ja:
+  authentication_error: 許可されていない動作です
+  file_exists_label: ファイルが既に存在します
+  out_of_range_error: 想定を外れた値が設定されています
+  errors:
+    record_not_uniq_error: 既に同様のデータが登録されています
+    unauthorized_error: 操作する権限がありません
+    messages:
+      blank: は必須項目です
+      empty: は必須項目です
+      required: は必須項目です
