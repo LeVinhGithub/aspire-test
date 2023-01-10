@@ -1,0 +1,12 @@
+
+ja:
+  activerecord:
+    models:
+    attributes:
+  enums:
+  errors:
+    messages:
+      date_type: は有効な日付である必要があります
+      datetime_type: は有効な日時である必要があります
+      in_future: は本日より後である必要があります
+      in_past: は本日より前である必要があります

@@ -1,0 +1,15 @@
+ja:
+  common:
+    authentication_error: 許可されていない動作です
+    file_exists_label: ファイルが既に存在します
+    out_of_range_error: 想定を外れた値が設定されています
+    admin_dashboard_label: 管理画面
+    delete_label: 削除
+    description: 
+    project_name: harry_pro1_10jan
+    sign_out_label: ログアウト
+    title: harry_pro1_10jan
+  dashboard_mailer:
+    dashboard_index_summary:
+      csv_attached_label: CSVファイルが添付されていますので、そちらをご確認下さい。
+  dashboard:
