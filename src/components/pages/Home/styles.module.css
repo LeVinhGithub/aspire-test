@@ -1,0 +1,28 @@
+.page_container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+.defaultheader_1 {
+  width: 100%;
+}
+.box_0 {
+  background-color: rgba(255, 255, 255, 1);
+  flex: 1;
+  height: 300px;
+  min-height: 50px;
+  min-width: 50px;
+  width: 100%;
+}
+.icon_1 {
+  padding-top: 5px;
+}
+.box_2 {
+  background-color: var(--YELLOW);
+  min-height: 300px;
+  width: 100%;
+}
+.defaultfooter_1 {
+  width: 100%;
+}
