@@ -1,0 +1,8 @@
+.molecule_container {
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 375px;
+  height: 44px;
+}

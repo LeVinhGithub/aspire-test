@@ -1,0 +1,34 @@
+.page_container {
+  flex-direction: row;
+  border-radius: 8px;
+  align-items: center;
+  width: 160px;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 40px;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+  padding: 8px 12px 8px 12px;
+}
+.text_18 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(196, 196, 196);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+}
+.image_52 {
+  width: 20px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 20px;
+}

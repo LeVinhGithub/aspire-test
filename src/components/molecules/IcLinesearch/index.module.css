@@ -1,0 +1,11 @@
+.page_container {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.image_20 {
+  width: 20px;
+  height: 20px;
+}

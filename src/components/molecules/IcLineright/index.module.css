@@ -1,0 +1,15 @@
+.page_container {
+  transform: rotate(-1deg);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.image_48 {
+  transform: rotate(-1deg);
+  flex: none;
+  flex-grow: 0;
+  width: 20px;
+  height: 20px;
+}

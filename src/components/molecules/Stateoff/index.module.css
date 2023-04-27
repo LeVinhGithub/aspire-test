@@ -1,0 +1,23 @@
+.page_container {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 100px;
+  justify-content: center;
+  height: 40px;
+  display: flex;
+}
+.text_34 {
+  font-size: 14px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(108, 108, 108);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+}

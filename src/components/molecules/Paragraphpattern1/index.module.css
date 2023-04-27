@@ -1,0 +1,25 @@
+.page_container {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 295px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 26px;
+  display: flex;
+}
+.text_56 {
+  font-size: 16px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 160%;
+  font-family: Noto Sans JP;
+  position: relative;
+  align-self: stretch;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 700;
+}

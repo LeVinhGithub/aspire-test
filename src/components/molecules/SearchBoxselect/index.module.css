@@ -1,0 +1,16 @@
+.page_container {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 200px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 44px;
+  display: flex;
+}
+.select_1 {
+  width: 200px;
+  height: 44px;
+}

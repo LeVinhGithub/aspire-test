@@ -1,0 +1,32 @@
+.page_container {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.image_85 {
+  right: 43.75%;
+  position: absolute;
+  width: 3px;
+  top: 18.75%;
+  left: 43.75%;
+  bottom: 68.75%;
+  height: 3px;
+}
+.image_92 {
+  right: 43.75%;
+  position: absolute;
+  width: 3px;
+  top: 43.75%;
+  left: 43.75%;
+  bottom: 43.75%;
+  height: 3px;
+}
+.image_96 {
+  right: 43.75%;
+  position: absolute;
+  width: 3px;
+  top: 66.67%;
+  left: 43.75%;
+  bottom: 20.83%;
+  height: 3px;
+}

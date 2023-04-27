@@ -1,0 +1,28 @@
+.page_container {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  border-radius: 4px;
+  position: relative;
+  gap: 4;
+  align-self: stretch;
+  height: 56px;
+  align-items: center;
+  width: 303px;
+  background-color: rgb(234, 234, 234);
+  justify-content: center;
+  display: flex;
+  padding: 12px 20px 12px 20px;
+}
+.text_18 {
+  font-size: 16px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(160, 160, 160);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 500;
+}

@@ -1,0 +1,15 @@
+.page_container {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 295px;
+  align-self: stretch;
+  height: 1px;
+}
+.image_64 {
+  width: 295px;
+  align-self: stretch;
+  flex-grow: 0;
+  flex: none;
+  height: 1px;
+}

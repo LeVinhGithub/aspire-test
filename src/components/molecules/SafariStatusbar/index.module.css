@@ -1,0 +1,145 @@
+.page_container {
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 375px;
+  height: 46px;
+}
+.statusi_phone_12_mini_75 {
+  width: 68px;
+  top: 21;
+  right: 11;
+  position: absolute;
+  height: 13px;
+}
+.batteryi_phone_12_mini_73 {
+  width: 22px;
+  top: 0.6700000166893005;
+  right: 0.34192848205566406;
+  position: absolute;
+  height: 11px;
+}
+.image_66 {
+  right: 10.15%;
+  position: absolute;
+  width: 20px;
+  top: 0%;
+  height: 11px;
+  border: 1 solid rgba(0, 0, 0, 0.4000000059604645);
+}
+.image_70 {
+  position: absolute;
+  width: 1px;
+  top: 32.35%;
+  left: 94.23%;
+  bottom: 32.35%;
+  height: 4px;
+}
+.capacity_72 {
+  background-color: rgb(0, 0, 0);
+  right: 18.86%;
+  border-radius: 1.3333333730697632px;
+  position: absolute;
+  width: 16px;
+  top: 17.65%;
+  left: 8.7%;
+  bottom: 17.65%;
+  height: 7px;
+}
+.image_74 {
+  width: 15px;
+  height: 10px;
+}
+.image_75 {
+  width: 17px;
+  height: 10px;
+}
+.text_76 {
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  line-height: normal;
+  font-family: SF Pro Text;
+  position: absolute;
+  top: 18.75;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 600;
+  left: 27;
+}
+.imagepicker_1_container {
+  width: 100%;
+  height: auto;
+}
+.imagepicker_1_inner {
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.imagepicker_1_label {
+  font-weight: bold;
+  margin: 0px 10px 0px 0px;
+}
+.imagepicker_1_required {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+}
+.imagepicker_1_button {
+  font-size: 16px;
+  border-radius: 2px;
+  width: auto;
+  height: auto;
+  font-weight: 500;
+  display: inline-block;
+  padding: 4px 15px 4px 15px;
+}
+.form_1 {
+  max-width: 600px;
+  height: auto;
+  margin: 48px auto 48px auto;
+  padding: 26px 26px 42px 26px;
+}
+.form_1_name {
+  color: rgb(40, 40, 40);
+  font-size: 32px;
+  font-weight: bold;
+  margin: 0px 0px 40px 0px;
+}
+.input_1_container {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  margin: 0px 0px 24px 0px;
+}
+.input_1_inner {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.input_1_label {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  display: inline;
+  margin: 0px 10px 0px 0px;
+}
+.input_1_required {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  display: inline;
+}
+.input_1 {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}
+.input_1_error_message_container {
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+}
+.form_1_button {
+  width: 100%;
+  margin: 40px 0px 0px 0px;
+}
+.select_1_inner {
+  width: 100%;
+  height: auto;
+  margin: 10px 0px 10px 0px;
+}

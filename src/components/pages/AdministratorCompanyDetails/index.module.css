@@ -1,0 +1,214 @@
+.page_container {
+  width: 1280px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  height: 800px;
+}
+.header_inner_1 {
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  align-items: flex-start;
+  position: relative;
+  width: 1280px;
+  justify-content: center;
+  height: 72px;
+  display: flex;
+  margin: 0px 0px 0px 0px;
+}
+.frame_42731903812 {
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  width: 908px;
+  gap: 24;
+  justify-content: flex-start;
+  height: 379px;
+  display: flex;
+  margin: 29px 0px 0px 140px;
+}
+.title_4 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 60px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 20px;
+  display: flex;
+}
+.ic_line_arrowleft_1 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin: 0px 0px 0px 0px;
+}
+.text_4 {
+  font-size: 16px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(108, 108, 108);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.frame_42731883912 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 40;
+  width: 908px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 335px;
+  display: flex;
+}
+.meutaskdetail_6 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 200px;
+  justify-content: flex-start;
+  height: 120px;
+  display: flex;
+}
+.task_menu_button_1 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  border-radius: 8px;
+  position: relative;
+  gap: 8;
+  align-self: stretch;
+  height: 60px;
+  align-items: center;
+  width: 200px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 20px 16px 20px 16px;
+}
+.element_12 {
+  background-color: rgb(252, 252, 252);
+  position: relative;
+  border-radius: 2px;
+  gap: 16;
+  padding: 24px;
+  height: 335px;
+  align-items: flex-start;
+  width: 668px;
+  flex-grow: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(240, 240, 240);
+}
+.head_10 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 12;
+  width: 620px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 33px;
+  display: flex;
+}
+.title_10 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 620px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 20px;
+  display: flex;
+}
+.text_10 {
+  font-size: 20px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(13, 13, 13);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 700;
+}
+.divider_1 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 620px;
+  align-self: stretch;
+  height: 1px;
+  margin: 0px 0px 0px 0px;
+}
+.frame_42731904012 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 620px;
+  gap: 20;
+  justify-content: flex-start;
+  height: 238px;
+  display: flex;
+}
+.frame_42731903912 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 620px;
+  gap: 16;
+  justify-content: flex-start;
+  height: 182px;
+  display: flex;
+}
+.paragraphpattern_21 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 620px;
+  gap: 2;
+  justify-content: flex-start;
+  height: 50px;
+  display: flex;
+  margin: 0px 0px 0px 0px;
+}
+.btn_1 {
+  flex-direction: row;
+  border-radius: 4px;
+  gap: 4;
+  align-items: center;
+  width: 76px;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 36px;
+  display: flex;
+  border: 1px solid rgb(211, 211, 211);
+  padding: 8px 12px 8px 12px;
+}

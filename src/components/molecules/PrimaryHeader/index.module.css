@@ -1,0 +1,69 @@
+.page_container {
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 100%;
+  height: 44px;
+  padding: 0px 20px 0px 20px;
+}
+.frame_4273188172 {
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  gap: 8;
+  justify-content: space-between;
+  height: 44px;
+  display: flex;
+}
+.text_1 {
+  word-break: break-word;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-weight: 500;
+}
+.ic_linehamburger_2 {
+  flex: none;
+  flex-grow: 0;
+  position: absolute;
+  width: 24px;
+  top: 10;
+  left: 12;
+  height: 24px;
+}
+.logo_2 {
+  width: 94px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.frame_4273188753 {
+  flex-direction: row;
+  position: relative;
+  width: auto;
+  gap: 18;
+  height: 24px;
+  display: flex;
+}
+.icpeople_3 {
+  width: auto;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.icmessage_3 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.divider_2 {
+  width: 375px;
+  top: 98.86%;
+  position: absolute;
+  height: 0px;
+}

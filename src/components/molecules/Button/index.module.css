@@ -1,0 +1,17 @@
+.molecule_container {
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.10000000149011612);
+  flex-direction: row;
+  flex-grow: 0;
+  border-radius: 4px;
+  position: relative;
+  gap: 4;
+  align-self: stretch;
+  height: 56px;
+  align-items: center;
+  width: 303px;
+  background-color: rgb(13, 13, 13);
+  flex: none;
+  justify-content: center;
+  display: flex;
+  padding: 12px 20px 12px 20px;
+}

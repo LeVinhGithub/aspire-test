@@ -1,0 +1,213 @@
+.page_container {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  align-self: stretch;
+  height: 84px;
+  align-items: flex-start;
+  flex-grow: 0;
+  width: 1000px;
+  flex: none;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+  padding: 0px 20px 0px 20px;
+}
+.container_87 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 960px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 84px;
+  display: flex;
+  padding: 12px 0px 12px 0px;
+}
+.text_area_87 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 1;
+  align-items: center;
+  position: relative;
+  width: 960px;
+  justify-content: flex-start;
+  height: 60px;
+  display: flex;
+}
+.image_72 {
+  width: 80px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 60px;
+}
+.frame_777975 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 120px;
+  justify-content: center;
+  height: 28px;
+  display: flex;
+}
+.taggeneric_75 {
+  background-color: rgb(246, 246, 253);
+  position: relative;
+  border-radius: 2px;
+  gap: 12;
+  padding: 8px;
+  height: 28px;
+  align-items: center;
+  width: 52px;
+  flex-grow: 0;
+  flex-direction: row;
+  justify-content: center;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+}
+.text_75 {
+  font-size: 12px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(110, 124, 201);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 700;
+}
+.frame_763677 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 100px;
+  gap: 10;
+  justify-content: flex-start;
+  height: 21px;
+  display: flex;
+}
+.text_77 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(108, 108, 108);
+  line-height: 160%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.frame_778379 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 120px;
+  gap: 12;
+  justify-content: flex-start;
+  height: 21px;
+  display: flex;
+  padding: 0px 16px 0px 0px;
+}
+.text_79 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(13, 13, 13);
+  line-height: 160%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.frame_763781 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 1;
+  align-items: center;
+  position: relative;
+  width: 336px;
+  gap: 12;
+  justify-content: flex-start;
+  height: 21px;
+  display: flex;
+  padding: 0px 16px 0px 0px;
+}
+.frame_778183 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 60px;
+  gap: 12;
+  justify-content: flex-start;
+  height: 21px;
+  display: flex;
+}
+.text_83 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(13, 13, 13);
+  line-height: 160%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.frame_778285 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 84px;
+  gap: 12;
+  justify-content: flex-start;
+  height: 21px;
+  display: flex;
+}
+.switch_87 {
+  background-color: rgb(232, 108, 55);
+  position: relative;
+  border-radius: 60px;
+  padding: 4px;
+  height: 36px;
+  align-items: center;
+  width: 60px;
+  flex-grow: 0;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(240, 240, 240);
+}
+.frame_42731865087 {
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.20000000298023224);
+  flex-direction: column;
+  flex-grow: 0;
+  border-radius: 60px;
+  position: relative;
+  gap: 8;
+  height: 28px;
+  align-items: center;
+  width: 28px;
+  flex: none;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}

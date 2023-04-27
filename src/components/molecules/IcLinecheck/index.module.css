@@ -1,0 +1,15 @@
+.page_container {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.image_23 {
+  right: 16.67%;
+  position: absolute;
+  width: 15px;
+  top: 29.17%;
+  left: 20.83%;
+  bottom: 29.17%;
+  height: 10px;
+  border: 2 solid rgb(13, 13, 13);
+}

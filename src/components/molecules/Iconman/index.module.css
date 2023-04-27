@@ -1,0 +1,30 @@
+.page_container {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  border-radius: 12px;
+  position: relative;
+  gap: 4;
+  padding: 16px;
+  height: 72px;
+  align-items: center;
+  width: 72px;
+  justify-content: center;
+  background-color: rgb(242, 250, 253);
+  display: flex;
+}
+.user_19157 {
+  width: 40px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 40px;
+}
+.image_45 {
+  width: 21px;
+  height: 21px;
+}
+.image_56 {
+  width: 35px;
+  height: 16px;
+}

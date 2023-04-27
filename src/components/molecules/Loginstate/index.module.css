@@ -1,0 +1,33 @@
+.page_container {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 65px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 13px;
+  display: flex;
+}
+.ellipse_2630 {
+  flex: none;
+  background-color: rgb(232, 108, 55);
+  flex-grow: 0;
+  border-radius: 50%;
+  position: relative;
+  width: 10px;
+  height: 10px;
+}
+.text_38 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(108, 108, 108);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+}

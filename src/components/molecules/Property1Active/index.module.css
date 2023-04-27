@@ -1,0 +1,27 @@
+.page_container {
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.10000000149011612);
+  flex-direction: column;
+  flex-grow: 0;
+  border-radius: 4px;
+  position: relative;
+  height: 56px;
+  align-items: center;
+  width: 320px;
+  flex: none;
+  justify-content: center;
+  background-color: rgb(232, 108, 55);
+  display: flex;
+  padding: 20px 0px 20px 0px;
+}
+.text_40 {
+  font-size: 16px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(255, 255, 255);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 700;
+}
