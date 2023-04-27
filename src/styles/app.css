@@ -1,0 +1,8 @@
+@import 'node_modules/modern-normalize/modern-normalize.css';
+
+:root {
+  --400px: 400px;
+  --RED: #ff0000;
+  --YELLOW: #fafa0b;
+  --GREEN: #219c05;
+}
