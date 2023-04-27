@@ -1,0 +1,121 @@
+.page_container {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 673px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 44px;
+  display: flex;
+}
+.text_field_title_49 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 160px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 20px;
+  display: flex;
+}
+.text_44 {
+  font-size: 14px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 700;
+}
+.search_boxmultiselect_82 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 505px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 44px;
+  display: flex;
+}
+.select_60 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  position: relative;
+  gap: 8;
+  align-self: stretch;
+  height: 44px;
+  align-items: center;
+  width: 247px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 16px 20px 16px 0px;
+}
+.image_58 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.text_60 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 500;
+}
+.select_78 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  position: relative;
+  gap: 8;
+  align-self: stretch;
+  height: 44px;
+  align-items: center;
+  width: 234px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 16px 20px 16px 0px;
+}
+.text_78 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 400;
+}
+.select_82 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  position: relative;
+  gap: 8;
+  align-self: stretch;
+  height: 44px;
+  align-items: center;
+  width: 182px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 16px 20px 16px 0px;
+}

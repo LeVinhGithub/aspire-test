@@ -1,0 +1,13 @@
+.molecule_container {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 8;
+  width: 100%;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 84px;
+  display: flex;
+}

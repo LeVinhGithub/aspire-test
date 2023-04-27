@@ -1,0 +1,116 @@
+.page_container {
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  align-items: flex-start;
+  position: relative;
+  width: 100%;
+  justify-content: center;
+  height: 72px;
+  display: flex;
+}
+.frame_42731929570 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 1;
+  position: relative;
+  height: auto;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  padding: 8px 40px 8px 40px;
+}
+.menu_69 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: auto;
+  gap: 32;
+  justify-content: flex-start;
+  height: auto;
+  display: flex;
+}
+.logo_1 {
+  width: 94px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.main_menu_69 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 408px;
+  justify-content: flex-start;
+  height: 56px;
+  display: flex;
+}
+.sidemenu_list_65 {
+  background-color: rgb(240, 240, 240);
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: center;
+  border-radius: 4px;
+  position: relative;
+  width: 136px;
+  height: 56px;
+  justify-content: center;
+  flex: none;
+  display: flex;
+}
+.text_65 {
+  font-size: 14px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 700;
+}
+.sidemenu_list_67 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 136px;
+  justify-content: center;
+  height: 56px;
+  display: flex;
+}
+.text_67 {
+  font-size: 14px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(108, 108, 108);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+}
+.image_70 {
+  flex: none;
+  position: relative;
+  height: 30px;
+  width: 30px;
+  flex-grow: 0;
+  border: 1px solid rgb(234, 234, 234);
+}
+.image_71 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 1300px;
+  height: 1px;
+  border: 1 solid rgb(234, 234, 234);
+}

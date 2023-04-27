@@ -1,0 +1,210 @@
+.container {
+  align-items: center;
+  min-height: 100%;
+  width: 100%;
+  justify-content: center;
+  height: auto;
+  display: flex;
+}
+.inner_container_1668084900090 {
+  width: 1280px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  height: 800px;
+}
+.frame_42731903811 {
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  width: 908px;
+  gap: 24;
+  top: 101;
+  left: 140;
+  justify-content: flex-start;
+  height: 489px;
+  display: flex;
+}
+.title_4 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 60px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 20px;
+  display: flex;
+}
+.ic_line_arrowleft_3 {
+  width: 20px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 20px;
+}
+.text_4 {
+  font-size: 16px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(108, 108, 108);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.frame_42731883911 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 40;
+  width: 908px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 445px;
+  display: flex;
+}
+.meutaskdetail_6 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 200px;
+  justify-content: flex-start;
+  height: 120px;
+  display: flex;
+}
+.task_menu_button_6 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  border-radius: 8px;
+  position: relative;
+  gap: 8;
+  align-self: stretch;
+  height: 60px;
+  align-items: center;
+  width: 200px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 20px 16px 20px 16px;
+}
+.element_11 {
+  background-color: rgb(252, 252, 252);
+  position: relative;
+  border-radius: 2px;
+  gap: 16;
+  padding: 24px;
+  height: 445px;
+  align-items: flex-start;
+  width: 668px;
+  flex-grow: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(240, 240, 240);
+}
+.head_10 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 12;
+  width: 620px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 33px;
+  display: flex;
+}
+.title_10 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 620px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 20px;
+  display: flex;
+}
+.text_10 {
+  font-size: 20px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(13, 13, 13);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 700;
+}
+.divider_10 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 620px;
+  align-self: stretch;
+  height: 1px;
+}
+.body_11 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 620px;
+  gap: 16;
+  justify-content: flex-start;
+  height: 348px;
+  display: flex;
+}
+.text_field_11 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 8;
+  width: 620px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 84px;
+  display: flex;
+}
+.btn_11 {
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.10000000149011612);
+  flex-direction: row;
+  flex-grow: 0;
+  border-radius: 4px;
+  position: relative;
+  gap: 4;
+  height: 48px;
+  align-items: center;
+  width: 104px;
+  flex: none;
+  background-color: rgb(13, 13, 13);
+  justify-content: center;
+  display: flex;
+  padding: 12px 20px 12px 20px;
+}
+.header_inner_11 {
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  align-items: flex-start;
+  position: absolute;
+  width: 1280px;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  height: 72px;
+  display: flex;
+}

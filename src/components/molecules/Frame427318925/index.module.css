@@ -1,0 +1,14 @@
+.page_container {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  gap: 4;
+  height: 812px;
+  align-items: flex-start;
+  width: 375px;
+  background-color: rgba(0, 0, 0, 0.4000000059604645);
+  justify-content: flex-start;
+  display: flex;
+  padding: 354px 52px 354px 52px;
+}

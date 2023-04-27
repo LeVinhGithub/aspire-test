@@ -1,0 +1,56 @@
+.page_container {
+  width: 60px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 60px;
+}
+.ellipse_2559 {
+  background-color: rgb(255, 218, 1);
+  box-shadow: 0px 8px 20px rgba(0,0,0,0.11999999731779099);
+  border-radius: 50%;
+  position: absolute;
+  width: 60px;
+  top: 0%;
+  height: 60px;
+}
+.frame_42731883469 {
+  flex-direction: column;
+  align-items: center;
+  right: 31.67%;
+  position: absolute;
+  width: 22px;
+  gap: 5;
+  left: 31.67%;
+  top: 20%;
+  height: 36px;
+  justify-content: flex-start;
+  bottom: 20%;
+  display: flex;
+}
+.star_1168 {
+  width: 20px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 20px;
+}
+.image_68 {
+  width: 20px;
+  top: 2.15%;
+  position: absolute;
+  bottom: 2.02%;
+  height: 19px;
+}
+.text_69 {
+  font-size: 11px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 700;
+}

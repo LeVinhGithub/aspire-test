@@ -1,0 +1,44 @@
+.page_container {
+  transform: rotate(-1deg);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.morehorizontal_1181 {
+  width: 20px;
+  top: 0%;
+  position: absolute;
+  height: 20px;
+}
+.image_49 {
+  right: 45.83%;
+  position: absolute;
+  width: 1px;
+  top: 45.83%;
+  left: 45.83%;
+  bottom: 45.83%;
+  height: 1px;
+  border: 1 solid rgb(13, 13, 13);
+}
+.image_61 {
+  right: 16.67%;
+  position: absolute;
+  width: 1px;
+  top: 45.83%;
+  left: 75%;
+  bottom: 45.83%;
+  height: 1px;
+  border: 1 solid rgb(13, 13, 13);
+}
+.image_80 {
+  right: 75%;
+  position: absolute;
+  width: 1px;
+  top: 45.83%;
+  left: 16.67%;
+  bottom: 45.83%;
+  height: 1px;
+  border: 1 solid rgb(13, 13, 13);
+}

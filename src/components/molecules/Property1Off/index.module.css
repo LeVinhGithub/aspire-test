@@ -1,0 +1,49 @@
+.page_container {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  border-radius: 4px;
+  position: relative;
+  gap: 10;
+  align-self: stretch;
+  height: 44px;
+  align-items: center;
+  width: 118px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 16px 12px 16px 12px;
+}
+.ic_lineradio_58 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.radiochecked_158 {
+  width: 24px;
+  top: 0%;
+  position: absolute;
+  height: 24px;
+}
+.image_54 {
+  right: 8.33%;
+  position: absolute;
+  width: 20px;
+  top: 8.33%;
+  left: 8.33%;
+  bottom: 8.33%;
+  height: 20px;
+}
+.text_61 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(13, 13, 13);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+}

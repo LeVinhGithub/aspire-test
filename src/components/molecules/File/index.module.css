@@ -1,0 +1,60 @@
+.page_container {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  gap: 10;
+  border-radius: 12px;
+  align-self: stretch;
+  padding: 16px;
+  height: 72px;
+  align-items: center;
+  width: 100%;
+  flex-grow: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+}
+.ic_twotoneclip_1 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.frame_4273188934 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-start;
+  position: relative;
+  width: 484px;
+  gap: 10;
+  justify-content: flex-start;
+  height: 37px;
+  display: flex;
+}
+.text_3 {
+  font-size: 15px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.text_4 {
+  font-size: 12px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(141, 141, 141);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 400;
+}

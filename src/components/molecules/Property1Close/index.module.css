@@ -1,0 +1,32 @@
+.page_container {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  gap: 8;
+  padding: 16px;
+  height: 56px;
+  align-items: center;
+  width: 335px;
+  justify-content: flex-start;
+  flex-direction: row;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+}
+.text_65 {
+  font-size: 15px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.image_76 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}

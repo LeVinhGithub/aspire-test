@@ -1,0 +1,337 @@
+.container {
+  flex-direction: column;
+  align-items: center;
+  min-height: 100%;
+  width: 100%;
+  justify-content: center;
+  height: auto;
+  display: flex;
+}
+.header_default_18 {
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  width: 100%;
+  justify-content: flex-start;
+  height: 73px;
+  display: flex;
+}
+.inner_container_1667376673213 {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  height: auto;
+}
+.frame_42731902218 {
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  width: 85%;
+  gap: 12;
+  justify-content: flex-start;
+  height: auto;
+  display: flex;
+  margin: 0% 5% 0% 10%;
+}
+.frame_4273190359 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  align-self: stretch;
+  justify-content: space-between;
+  height: auto;
+  display: flex;
+}
+.frame_4273190038 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 286px;
+  gap: 20;
+  justify-content: flex-start;
+  height: 72px;
+  display: flex;
+}
+.ic_line_arrowleft_4 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.iconman_4 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  border-radius: 12px;
+  position: relative;
+  gap: 4;
+  padding: 16px;
+  height: 72px;
+  align-items: center;
+  width: 72px;
+  justify-content: center;
+  background-color: rgb(242, 250, 253);
+  display: flex;
+}
+.frame_4273188807 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 94px;
+  gap: 12;
+  justify-content: flex-start;
+  height: 70px;
+  display: flex;
+}
+.frame_4273190237 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 94px;
+  gap: 10;
+  justify-content: flex-start;
+  height: 45px;
+  display: flex;
+}
+.header_6 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 94px;
+  gap: 16;
+  justify-content: flex-start;
+  height: 22px;
+  display: flex;
+}
+.text_7 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(15, 15, 15);
+  line-height: 100%;
+  font-family: Noto Sans;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 500;
+}
+.loginstate_7 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 65px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 13px;
+  display: flex;
+}
+.btn_icon_8 {
+  background-color: rgb(252, 252, 252);
+  position: relative;
+  border-radius: 4px;
+  gap: 10;
+  height: 28px;
+  align-items: center;
+  width: 36px;
+  flex-grow: 0;
+  flex-direction: row;
+  justify-content: center;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+}
+.ic_linemorehorizontal_8 {
+  width: 20px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 20px;
+}
+.frame_4273190199 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 194px;
+  gap: 8;
+  justify-content: flex-start;
+  height: 104px;
+  display: flex;
+}
+.btn_9 {
+  flex-direction: row;
+  border-radius: 4px;
+  gap: 4;
+  align-items: center;
+  width: 194px;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 48px;
+  display: flex;
+  border: 1px solid rgb(211, 211, 211);
+  padding: 12px 20px 12px 20px;
+}
+.frame_42731903418 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 100%;
+  gap: 16;
+  justify-content: flex-start;
+  height: auto;
+  display: flex;
+}
+.group_414 {
+  width: 30%;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: auto;
+}
+.image_12 {
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.07999999821186066);
+  position: absolute;
+  width: 300px;
+  top: 0;
+  left: 0;
+  height: 440px;
+}
+.image_313 {
+  background-color: rgba(255, 255, 255, 0.20000000298023224);
+  border-radius: 4px;
+  position: absolute;
+  width: 300px;
+  top: 0;
+  left: 0;
+  height: 440px;
+}
+.frame_42731904014 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  border-radius: 100px;
+  gap: 4;
+  top: 174;
+  left: 104;
+  padding: 24px;
+  height: 92px;
+  align-items: center;
+  width: 92px;
+  flex-direction: row;
+  justify-content: center;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.07999999821186066);
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+}
+.illustrationpreview_14 {
+  flex: none;
+  flex-grow: 0;
+  border-radius: 4px;
+  position: relative;
+  width: 44px;
+  height: 44px;
+}
+.body_18 {
+  flex-direction: column;
+  border-radius: 4px;
+  gap: 16;
+  align-items: flex-start;
+  width: auto;
+  justify-content: flex-start;
+  background-color: rgb(255, 255, 255);
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: auto;
+  display: flex;
+  border: 1px solid rgb(234, 234, 234);
+  padding: 16px 24px 16px 24px;
+}
+.head_17 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 8;
+  width: 100%;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 49px;
+  display: flex;
+}
+.main_menu_17 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 500px;
+  justify-content: flex-start;
+  height: 40px;
+  display: flex;
+}
+.sidemenu_list_17 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 100px;
+  justify-content: center;
+  height: 40px;
+  display: flex;
+}
+.divider_17 {
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  width: 636px;
+  align-self: stretch;
+  height: 1px;
+}
+.frame_42731897118 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 12;
+  width: 100%;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: auto;
+  display: flex;
+}
+.paragraphpattern_218 {
+  flex: none;
+  flex-direction: column;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  gap: 2;
+  width: 636px;
+  align-self: stretch;
+  justify-content: flex-start;
+  height: 50px;
+  display: flex;
+}

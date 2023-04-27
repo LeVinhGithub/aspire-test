@@ -1,0 +1,27 @@
+.page_container {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  gap: 12;
+  align-self: stretch;
+  padding: 16px;
+  height: 56px;
+  align-items: center;
+  width: 100%;
+  flex-grow: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex: none;
+  display: flex;
+  border: 1px solid rgb(240, 240, 240);
+}
+.ic_linesearch_1 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.value {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+}

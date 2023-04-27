@@ -1,0 +1,29 @@
+.page_container {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  height: 24px;
+}
+.image_18 {
+  right: 89.33%;
+  position: absolute;
+  width: 24px;
+  top: 61.36%;
+  left: 4.27%;
+  bottom: 11.36%;
+  height: 24px;
+}
+.text_19 {
+  right: 41.07%;
+  font-size: 17px;
+  color: rgba(0, 0, 0, 0.8999999761581421);
+  line-height: 22;
+  font-family: Noto Sans JP;
+  position: absolute;
+  font-weight: 700;
+  top: 62.5%;
+  text-align: center;
+  vertical-align: top;
+  bottom: 12.5%;
+  left: 40.8%;
+}

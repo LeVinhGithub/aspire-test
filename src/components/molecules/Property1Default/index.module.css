@@ -1,0 +1,24 @@
+.page_container {
+  flex-direction: row;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  gap: 10;
+  height: 46px;
+  align-items: center;
+  width: 150px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 16px 20px 16px 20px;
+}
+.text_72 {
+  font-size: 14px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(108, 108, 108);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 400;
+}

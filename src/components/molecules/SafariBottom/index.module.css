@@ -1,0 +1,96 @@
+.page_container {
+  width: 375px;
+  position: relative;
+  height: 129px;
+}
+.barbg_6 {
+  background-color: rgb(247, 247, 247);
+  box-shadow: 0px -0.4000000059604645px 0px #c1c1c1;
+  position: absolute;
+  width: 375px;
+  top: 1;
+  left: 0;
+  height: 128px;
+}
+.safariicons_20 {
+  flex-direction: row;
+  align-items: center;
+  right: 18;
+  position: absolute;
+  width: 340px;
+  left: 17;
+  height: 24px;
+  justify-content: space-between;
+  bottom: 42;
+  display: flex;
+}
+.image_10 {
+  width: 24px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 24px;
+}
+.safariaddressbar_27 {
+  right: 27;
+  position: absolute;
+  width: 321px;
+  left: 27;
+  bottom: 78;
+  height: 42px;
+}
+.safaribarinput_22 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 12px rgba(0,0,0,0.12999999523162842);
+  border-radius: 10px;
+  position: absolute;
+  width: 321px;
+  top: 0;
+  left: 0;
+  height: 42px;
+}
+.image_23 {
+  width: 24px;
+  position: absolute;
+  right: 9;
+  bottom: 9;
+  height: 24px;
+}
+.address_26 {
+  flex-direction: row;
+  align-items: center;
+  position: absolute;
+  width: 99px;
+  gap: 4;
+  left: calc(50% - 99px/2);
+  height: 21px;
+  justify-content: center;
+  bottom: 11;
+  display: flex;
+}
+.image_25 {
+  width: 16px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 16px;
+}
+.text_26 {
+  font-size: 18px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(32, 33, 36);
+  line-height: normal;
+  font-family: SF Pro Display;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+  font-weight: 400;
+}
+.image_27 {
+  width: 24px;
+  position: absolute;
+  left: 12;
+  bottom: 9;
+  height: 24px;
+}

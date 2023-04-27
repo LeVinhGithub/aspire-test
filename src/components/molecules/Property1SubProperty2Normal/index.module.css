@@ -1,0 +1,37 @@
+.page_container {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  position: relative;
+  align-self: stretch;
+  height: 53px;
+  align-items: flex-start;
+  width: 219px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 20px 0px 20px 24px;
+}
+.frame_756276 {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  position: relative;
+  width: 39px;
+  gap: 16;
+  justify-content: flex-start;
+  height: 13px;
+  display: flex;
+}
+.text_76 {
+  font-size: 13px;
+  flex: none;
+  flex-grow: 0;
+  color: rgb(141, 141, 141);
+  line-height: 100%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+}

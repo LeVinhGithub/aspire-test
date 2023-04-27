@@ -1,0 +1,129 @@
+.page_container {
+  flex-direction: row;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-end;
+  position: relative;
+  width: 200px;
+  gap: 8;
+  justify-content: flex-end;
+  height: 85px;
+  display: flex;
+}
+.message_bubbleavatar_45 {
+  width: 30px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 30px;
+}
+.image_45 {
+  width: 30px;
+  top: 0%;
+  position: absolute;
+  height: 30px;
+}
+.message_send_time_54 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 1;
+  align-items: flex-end;
+  position: relative;
+  width: 162px;
+  gap: 2;
+  justify-content: flex-end;
+  height: 85px;
+  display: flex;
+}
+.sender_48 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 162px;
+  align-self: stretch;
+  height: 13px;
+  justify-content: flex-start;
+  display: flex;
+  padding: 0px 0px 0px 12px;
+}
+.text_48 {
+  letter-spacing: 0.06599999964237213;
+  flex: none;
+  flex-grow: 1;
+  color: rgba(60, 60, 67, 0.6000000238418579);
+  line-height: 13;
+  font-family: SF Pro Text;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+  font-size: 11px;
+}
+.bubble_tail_54 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 0;
+  align-items: flex-end;
+  position: relative;
+  width: 162px;
+  align-self: stretch;
+  justify-content: flex-end;
+  height: 70px;
+  display: flex;
+}
+.tail_52 {
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: flex-start;
+  position: relative;
+  width: 0px;
+  justify-content: flex-start;
+  height: 20px;
+  display: flex;
+}
+.container_52 {
+  width: 11px;
+  flex: none;
+  flex-grow: 0;
+  position: relative;
+  height: 20px;
+}
+.image_52 {
+  transform: rotate(-180deg);
+  right: -16.835214614868164;
+  position: absolute;
+  width: 16px;
+  bottom: -0.32248687744140625;
+  height: 20px;
+}
+.bubble_54 {
+  flex: none;
+  flex-direction: row;
+  flex-grow: 1;
+  border-radius: 18px;
+  position: relative;
+  align-self: stretch;
+  padding: 12px;
+  height: 70px;
+  align-items: flex-start;
+  width: 161px;
+  justify-content: flex-start;
+  background-color: rgb(234, 234, 234);
+  display: flex;
+}
+.text_54 {
+  font-size: 15px;
+  flex: none;
+  flex-grow: 1;
+  color: rgb(15, 15, 15);
+  line-height: 150%;
+  font-family: Noto Sans JP;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  font-weight: 500;
+  max-width: 100%;
+}
