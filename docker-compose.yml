@@ -1,0 +1,55 @@
+
+version: '3.8'
+services:
+  db:
+    container_name: harry_preprod26apr_localization_db
+    image: postgres:9.4
+    restart: always
+    platform: linux/x86_64
+    environment:
+      POSTGRES_PASSWORD: ''
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - 5432:5432
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    command: -p 5432
+  redis:
+    image: redis:latest
+    command: redis-server --bind redis --port 6379
+  web:
+    container_name: harry_preprod26apr_localization_web
+    build: .
+    command: /bin/sh -c "rm -f ./tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+    environment:
+      HARRY_PREPROD26APR_LOCALIZATION_DATABASE_HOST: db
+      REDIS_URL: redis://redis:6379/0
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/web
+      - /web/vendor
+      - /web/node_modules
+    links:
+      - db
+    stdin_open: true
+    tty: true
+    depends_on:
+      - db
+  sidekiq:
+    container_name: harry_preprod26apr_localization_sidekiq
+    build: .
+    command: bundle exec sidekiq
+    environment:
+      HARRY_PREPROD26APR_LOCALIZATION_DATABASE_HOST: db
+      REDIS_URL: redis://redis:6379/0
+    volumes:
+      - .:/web
+      - /web/node_modules
+    links:
+      - redis
+      - db
+
+volumes:
+  db-data:
+    driver: local
