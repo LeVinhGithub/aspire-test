@@ -1,0 +1,17 @@
+.page_container {
+  flex-direction: column;
+  overflow-y: auto;
+  min-height: 100vh;
+  display: flex;
+}
+.defaultheader_1 {
+  width: 100%;
+}
+.box_0 {
+  background-color: rgb(255, 255, 255);
+  flex: 1;
+  min-height: 50px;
+  min-width: 50px;
+  width: 100%;
+  height: 300px;
+}
